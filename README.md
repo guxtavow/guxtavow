@@ -1,16 +1,27 @@
-### Hi there 👋
+### UM POUCO SOBRE MIM 
 
-<!--
-**guxtavow/guxtavow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Nasci em 25/07/2002 e no momento tenho 21 anos;
+* Moro em São Paulo;
+* Sou mais favorável a area de **Engenharia de software** e principalmente **Back-End**, mas sempre tento aprender um pouco sobre outras áreas;
+* No momento estou estudando Ciência da Computação no ultimo ano da graduação;
+* Sou estágiario no **Sebrae - São Paulo**;
+* Tenho diversos certificados em várias linguagens, alguns deles da FIAP e IFSUL;
+* No momento, possuo um inglês intermediário **(B2)**;
+* As linguagens que mais tenho domínio são: **Python e Javascript(Node.js, React)**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ABOUT ME (ENGLISH VERSION)
+* I was born on 07/25/2002 and I am currently 21 years old;
+* I live in São Paulo, Brazil;
+* I am more inclined towards the field of Software Engineering, particularly Back-End, but I always try to learn a bit about other areas;
+* Currently, I am studying Computer Science in the final year of my undergraduate degree;
+* I am an intern at Sebrae - São Paulo;
+* I have several certificates in various languages, some of them from FIAP and IFSUL;
+* The languages I have the most proficiency in are: Python and Javascript (Node.js, React).
+
+
+# LINKEDIN
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavodeaquinoavila/)
+
+
