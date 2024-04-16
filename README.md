@@ -18,6 +18,7 @@
 * Currently, I am studying Computer Science in the final year of my undergraduate degree;
 * I am an intern at Sebrae - São Paulo;
 * I have several certificates in various languages, some of them from FIAP and IFSUL;
+* At the moment, i have an intermediary english level **(B2)**;
 * The languages I have the most proficiency in are: Python and Javascript (Node.js, React).
 
 
