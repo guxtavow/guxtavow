@@ -1,6 +1,6 @@
 # UM POUCO SOBRE MIM 
 
-* No momento tenho 21 anos;
+* No momento tenho 22 anos;
 * Moro em São Paulo;
 * Sou mais favorável a area de **Engenharia de software** e principalmente **Back-End**, mas sempre tento aprender um pouco sobre outras áreas;
 * No momento estou estudando Ciência da Computação no ultimo ano da graduação;
@@ -12,9 +12,9 @@
 
 
 # ABOUT ME (ENGLISH VERSION)
-* I am currently 21 years old;
+* I am currently 22 years old;
 * I live in São Paulo, Brazil;
-* I am more inclined towards the field of Software Engineering, particularly Back-End, but I always try to learn a bit about other areas;
+* I am more inclined towards the field of **Software Engineering**, particularly **Back-End**, but I always try to learn a bit about other areas;
 * Currently, I am studying Computer Science in the final year of my undergraduate degree;
 * I am an intern at Sebrae - São Paulo;
 * I have several certificates in various languages, some of them from **FIAP and IFSUL**;
