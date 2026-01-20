@@ -1,6 +1,6 @@
 # UM POUCO SOBRE MIM 
 
-* No momento tenho 22 anos;
+* No momento tenho 23 anos;
 * Moro em São Paulo;
 * Sou mais favorável a area de **Engenharia de software** e principalmente **Back-End**, mas sempre tento aprender um pouco sobre outras áreas;
 * Sou formado em Ciência da Computação;
@@ -12,7 +12,7 @@
 
 
 # ABOUT ME (ENGLISH VERSION)
-* I am currently 22 years old;
+* I am currently 23 years old;
 * I live in São Paulo, Brazil;
 * I am more inclined towards the field of **Software Engineering**, particularly **Back-End**, but I always try to learn a bit about other areas;
 * **I have a degree on Computer Science**;
